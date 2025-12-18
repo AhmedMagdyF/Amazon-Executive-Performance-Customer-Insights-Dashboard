@@ -23,7 +23,7 @@ The cleaning process involved:
 ## 📊 Dashboard Screenshots
 *(Tip: Add your images here after uploading them to the repo)*
 ![Executive Overview](https://github.com/AhmedMagdyF/Amazon-Executive-Performance-Customer-Insights-Dashboard/blob/main/Screenshot%202025-12-18%20141448.png)
-![Customer RFM](link_to_image_2)
+![Customer RFM](https://github.com/AhmedMagdyF/Amazon-Executive-Performance-Customer-Insights-Dashboard/blob/main/Screenshot%202025-12-18%20141755.png)
 
 ## 📧 Contact
 Let's connect on [LinkedIn](www.linkedin.com/in/ahmed-magdy-07309623a
