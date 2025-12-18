@@ -26,4 +26,5 @@ The cleaning process involved:
 ![Customer RFM](link_to_image_2)
 
 ## 📧 Contact
-Let's connect on [LinkedIn](YOUR_LINKEDIN_URL)
+Let's connect on [LinkedIn](www.linkedin.com/in/ahmed-magdy-07309623a
+)
